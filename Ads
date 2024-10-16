@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adsense Information</title>
+</head>
+<body>
+    <h1>Google Adsense - ads.txt</h1>
+    <pre>
+        # Aquí puedes insertar directamente el contenido de tu archivo ads.txt
+        google.com, pub-1920753434426855, DIRECT, f08c47fec0942fa0
+        google.com, pub-1920753434426855, DIRECT, f08c47fec0942fa0
+    </pre>
+</body>
+</html>
